@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sirra11.github.io/"/>
-  <updated>2016-09-08T15:43:07.271Z</updated>
+  <updated>2016-09-08T15:47:27.946Z</updated>
   <id>http://sirra11.github.io/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://sirra11.github.io/2016/09/08/%E6%90%AC%E8%BF%90%E5%B7%A5%E7%B3%BB%E5%88%97-JS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://sirra11.github.io/2016/09/08/搬运工系列-JS学习笔记（一）/</id>
     <published>2016-09-08T15:06:27.000Z</published>
-    <updated>2016-09-08T15:43:07.271Z</updated>
+    <updated>2016-09-08T15:47:27.946Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><p></p><p>正逢校招，请允许我先小小的吐槽，笔试被各种虐。但也只能怪自己学艺不精喽。没有太多项目，也没有很好的基础，虽然自己做过简单的静态网站，但确实什么都算不上，而且太晚才决定要爬前端这个坑，菜菜菜菜人如此名啊。。所以痛定思痛，还是要把基础好好补上来，如果这波秋招真的没有找到前端的工作，那就以后边工作边提高吧，既然选择了这个坑，就坚持下去吧。</p><p>至于为什么叫搬运工系列，俗话说好记性不如烂笔头喽，不过之前做过很多笔记，都是东一处西一处各种凌乱，前几天入手了基本网上很多大神推荐的书籍，故而现在笔记全部做书上，整理呢就放在这里好了，但才第一遍过书不会有太多思考深入的东西，就做做知识点的搬运工吧。</p><p></p>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p></p><p>正逢校招，请允许我先小小的吐槽，笔试被各种虐。但也只能怪自己学艺不精喽。没有太多项目，也没有很好的基础，虽然自己做过简单的静态网站，但确实什么都算不上，而且太晚才决定要爬前端这个坑，菜菜菜菜人如此名啊。。所以痛定思痛，还是要把基础好好补上来，如果这波秋招真的没有找到前端的工作，那就以后边工作边提高吧，既然选择了这个坑，就坚持下去吧。</p><p>至于为什么叫搬运工系列，俗话说好记性不如烂笔头喽，不过之前做过很多笔记，都是东一处西一处各种凌乱，前几天入手了基本网上很多大神推荐的书籍，故而现在笔记全部做书上，整理呢就放在这里好了，但才第一遍过书不会有太多思考深入的东西，就做做知识点的搬运工吧。</p><p>好困，明天再继续，上传博文又出问题。。。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;导语&quot;&gt;&lt;a href=&quot;#导语&quot; class=&quot;headerlink&quot; title=&quot;导语&quot;&gt;&lt;/a&gt;导语&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;正逢校招，请允许我先小小的吐槽，笔试被各种虐。但也只能怪自己学艺不精喽。没有太多项目，也没有很好的基础，虽然自己做过简单的静态
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;正逢校招，请允许我先小小的吐槽，笔试被各种虐。但也只能怪自己学艺不精喽。没有太多项目，也没有很好的基础，虽然自己做过简单的静态
     
     </summary>
     
